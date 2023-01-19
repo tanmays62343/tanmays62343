@@ -19,7 +19,7 @@
 
 - A passionate Self-taught App Developer
 - Currently learning new things in App Development
-- I’m currently pursuing my post graduation degree of Master's Of Computer Applications
+- I’m currently pursuing my post graduation degree - Master's Of Computer Applications
 
 <br><br>
 
