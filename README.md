@@ -32,6 +32,7 @@
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+    ![HTML](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=Html&logoColor=white)
 
 <br>   
     
